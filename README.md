@@ -161,9 +161,10 @@ if __name__ == '__main__':
 ```
 
 ## تصاویر
+![1717540374372](https://github.com/msade6h/backdoor-with-python/assets/94873023/37c3e9e4-a3cd-489d-a4b7-6680fae4cf78)
 
-![رابط کاربری کلاینت](![1717540374372](https://github.com/msade6h/backdoor-with-python/assets/94873023/5c644a55-01b0-4d57-bc3a-3ee5d0cc9a1a)
-)
+
+
 *تصویری از رابط کاربری کلاینت برای اجرای دستورات از راه دور.*
 
 ## مشارکت
