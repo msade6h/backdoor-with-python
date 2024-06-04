@@ -46,7 +46,7 @@ class RemoteCommandExecutor(QWidget):
 
         self.setLayout(layout)
 
-        self.host = '192.168.0.4'
+        self.host = 'ip'
         self.port = 999
         self.client_thread = ClientThread(self.host, self.port, self.command_input)
         self.client_thread.output_signal.connect(self.update_output)
